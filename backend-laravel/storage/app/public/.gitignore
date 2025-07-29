@@ -1,0 +1,6 @@
+*
+!.gitignore
+!kendaraan/
+!kendaraan/**/*
+!bukti_bayar/
+!bukti_bayar/**/*
